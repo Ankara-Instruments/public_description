@@ -5,3 +5,20 @@
 
 ## Course Link
 http://capstone.eee.metu.edu.tr/
+
+# Project
+We are designing a voice controlled smart table tennis ball launcher (i.e. [training buddy](https://capstone.eee.metu.edu.tr/projects-2022-23/) ) for the course. 
+
+## Proposoal Animation
+https://www.youtube.com/watch?v=39sVppzSIxo
+
+## First Building Prototype
+https://www.youtube.com/shorts/ux2e25lsfdk
+
+## First Test
+https://www.youtube.com/shorts/3wf64rGy_4E
+
+# Social
+- [Website](https://ankarainstruments.medogan.com)
+
+- [YouTube](https://www.youtube.com/@06Intruments/featured)
